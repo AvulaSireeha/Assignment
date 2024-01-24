@@ -1,0 +1,56 @@
+                                            CODING STANDARDS
+SOLID PRINCIPLES:
+Solid principles are set of five design principles.It is introduced by Robert C.Martin,The purpose these principles is to developers to easy to understand, extend and maintain.
+SRP: The single-responsibility principle.
+OCP: The open-closed principle.
+LSP: The Liskov substitution principle.
+ISP: The interface segregation principle.
+DIP: The dependency inversion principle.
+OOPS CONCEPT:
+OOPs means Object-Oriented programming based on the "Objects".Which can contain data in the form of fields and code.
+    There are several types are there.They are
+ASSOCIATION:-
+                             It represents the relation between the "objects".Here,one object can       associated with one object or multiple objects.
+       The symbol of association is "->"(arrow).And keyword is "HAS_A".
+     Association can be undirectional or bidirectional.
+                     There are four types are there
+One-to-One:- It means one object can associated with one object only.
+                 Ex:- Mobile Recharge(At a time we can recharge one number),Aadhar card,  Car                          and driver.
+One-to-Many:- It means one object can associate with many objects.
+               Ex:-Learning things in different ways(byjus,odemi,institutions),mobile and different apps,Banks and different accounts.
+Many-to-One:-It means many objects can associate with one objects.
+              Ex:-many rooms in one house,many online payment apps for sending purpose money,many departments in one college.
+Many-to-Many:-It means many objects can associate with many objects.
+              Ex:-Books and Authors,Students and Courses,Employes and Projects.
+COMPOSITION:-
+                                 It represents the relation between the "Objects".One object is depence on another and they are inter dependent is called Composition.Its a strong relation between objects.
+Keyword is "HAS_A".And symbol is "Filled diamond with arrow".
+     Ex:- House and Rooms,Birth and Death,Bank and Accounts.
+AGGREGATION:-
+                               It is represents the relation between objects.It maintains weak relationship.It is a "Unidirectional".
+Keyword is "HAS_A".And symbol is "diamond  without filling with arrow".
+             Ex:-Mobile and App(instagram),Class and Students,Movie and Customer.
+ INHERITENCE:-
+                             The mechanism of Inheritence is to deriving one class to another.
+It represents "IS_A".and sumbol is "Up arrow".
+It provides the Reusability code.
+    There are four types,
+->Single level Inheritence
+->Multi level Inheritence
+->Hybrid level Inheritence
+->Hierarchical Inheritence
+Ex:-Father and Son,Company and that Employees,Project and classes.
+POLYMORPHISM:-
+                                 The mechanism of Polymorphism is aconcept of we can perform single action in different ways.
+Ex:- Travelling,Coding(java/.net/phyton),Langueges(speaking).
+ENCAPSULATION:-
+                                Encapsulation in Java is a process of wrapping code and data together into a single unit.
+Ex:-Capsule,Smartphone,Washing machine.
+ABSTRACTION:-
+                              Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+Ex:- Coffe Maker,Transactions,Movie.
+
+
+
+
+
